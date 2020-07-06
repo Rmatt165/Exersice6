@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial scale=1.0"
+  <title></title>
+</head>
+<body>
+  <h1>My top five favorite movies</h1>
+  <script src="exersise6.js"></script>
+  <ol>
+
+  </ol>
+  echo "# Exersice6" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Rmatt165/Exersice6.git
+git push -u origin master
